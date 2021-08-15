@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(247, 244, 244);
+}
+border{
+     border: 0 solid black;
+}
+#main-landing{
+    display: inline-block;
+}
+
+#main-viz{
+    display: inline-block;
+    margin: 5, 5, 5, 5;
+    border: 1;
+    width:100%
+
+}
+.image-sm{
+    width: 150px;
+    height: 150px;
+}
+.image-m{
+    width: 500px;
+    height: 400px;
+    float: left;
+}
+.image-m-1{
+    width: 600px;
+    height: 600px;
+}
+h1 {
+    color :blue;
+}
+
+#viz1 {
+    width:50%;
+    float: left;
+    border: 1px; 
+    
+}
+#viz2 {
+    width:50%;
+    float:right;
+}
+#viz3 {
+    width:50%;
+    float: left;
+    /* margin: 0px auto; */
+    border: 1px;
+}
+#viz4 {
+    width:50%;
+    float: right;
+    /* margin: 0 auto; */
+}
+.clearfix{
+    overflow: auto;
+}
+
+#figtitle{
+    text-align: center;
+}
